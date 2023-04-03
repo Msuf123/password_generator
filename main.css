@@ -1,0 +1,28 @@
+body{
+    background-color: gainsboro;
+}
+h2{
+    display: block;
+    width: max-content;
+    margin: 6vh auto;
+    font-size: 4.5em;
+    font-family: 'Pacifico', cursive;
+    
+}
+#ans{
+    border: 5px solid blueviolet;
+    border-radius: 15px;
+    width: 25%;
+    height: fit-content;
+    font-size: 50px;
+    display: block;
+    margin:12vh auto 0vh auto;
+    text-align: center;
+}
+button{
+    
+    display: block;
+    margin:7vh auto;
+    padding:20px ;
+    font-size: 1.5em;
+}
